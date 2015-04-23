@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Test.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
